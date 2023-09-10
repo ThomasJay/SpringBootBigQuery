@@ -18,4 +18,6 @@ gcloud config set project chatsearchme
 gcloud auth application-default set-quota-project chatsearchme
 
 
+YouTube Video: https://youtu.be/_W6QRzr5MdY
+
 
